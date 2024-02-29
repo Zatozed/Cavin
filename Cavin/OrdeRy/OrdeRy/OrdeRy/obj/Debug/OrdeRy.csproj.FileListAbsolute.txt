@@ -1,0 +1,16 @@
+D:\OrdeRy\Ordery\OrdeRy\bin\Debug\OrdeRy.exe.config
+D:\OrdeRy\Ordery\OrdeRy\bin\Debug\OrdeRy.exe
+D:\OrdeRy\Ordery\OrdeRy\bin\Debug\OrdeRy.pdb
+D:\OrdeRy\Ordery\OrdeRy\obj\Debug\OrdeRy.csprojAssemblyReference.cache
+D:\OrdeRy\Ordery\OrdeRy\obj\Debug\OrdeRy.Form1.resources
+D:\OrdeRy\Ordery\OrdeRy\obj\Debug\OrdeRy.Properties.Resources.resources
+D:\OrdeRy\Ordery\OrdeRy\obj\Debug\OrdeRy.csproj.GenerateResource.cache
+D:\OrdeRy\Ordery\OrdeRy\obj\Debug\OrdeRy.csproj.CoreCompileInputs.cache
+D:\OrdeRy\Ordery\OrdeRy\obj\Debug\OrdeRy.exe
+D:\OrdeRy\Ordery\OrdeRy\obj\Debug\OrdeRy.pdb
+D:\OrdeRy\Ordery\OrdeRy\obj\Debug\OrdeRy.Update_Stocks_Form.resources
+D:\OrdeRy\Ordery\OrdeRy\bin\Debug\OrdeRy.exe.manifest
+D:\OrdeRy\Ordery\OrdeRy\bin\Debug\OrdeRy.application
+D:\OrdeRy\Ordery\OrdeRy\obj\Debug\OrdeRy.exe.manifest
+D:\OrdeRy\Ordery\OrdeRy\obj\Debug\OrdeRy.application
+D:\OrdeRy\Ordery\OrdeRy\obj\Debug\OrdeRy.Summary_Form.resources

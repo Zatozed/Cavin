@@ -1,0 +1,2 @@
+--SELECT * FROM tblProducts
+--SELECT Stocks FROM tblProducts Where ProductId=100
